@@ -1,2 +1,2 @@
-##Crop_Fertilizer_RS
+# Crop_Fertilizer_RS
 Based on Rs by using ML
